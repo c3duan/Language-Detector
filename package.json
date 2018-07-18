@@ -1,0 +1,13 @@
+{
+  "name": "language-detector",
+  "version": "1.0.0",
+  "description": "Language Detector Using NGrams",
+  "main": "train.js",
+  "author": "Chengzhu Duan",
+  "scripts": {
+    "train": "./train.js"
+  },
+  "dependencies": {
+    "glob": "^7.0.3"
+  }
+}
